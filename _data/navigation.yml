@@ -7,27 +7,36 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
+# Main is default (fallback)
 main:
   - title: "Publications"
     url: /publications/
+  
+  - title: "Experience"
+    url: /experience/
+    
+  - title: "English"
+    url: /en/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "日本語"
+    url: /ja/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+main_en:
+  - title: "Publications"
+    url: /en/publications/
+  
+  - title: "Experience"
+    url: /en/experience/
+
+#  - title: "Japanese"
+#    url: /ja/  # Will be handled dynamically in masthead
+
+main_ja:
+  - title: "Publications"
+    url: /ja/publications/
+  
+  - title: "Experience"
+    url: /ja/experience/
+
+#  - title: "English"
+#    url: /en/ # Will be handled dynamically in masthead

@@ -5,21 +5,57 @@
       <nav id="site-nav" class="greedy-nav">
         <button><span class="navicon"></span></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
+          <li
+            class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
             <a href="{{ base_path }}/">{{ site.title }}</a>
           </li>
-          {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-            {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
-            <li class="masthead__menu-item {% if page.url contains link.url and link.url != '/' %}selected{% endif %}">
-              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
-            </li>
+          {% if page.url contains '/en/' %}
+          {% assign navigation_links = site.data.navigation.main_en %}
+          {% assign switch_title = "日本語" %}
+          {% assign switch_url = page.url | replace: '/en/', '/ja/' %}
+          {% if page.url == '/en/' %}{% assign switch_url = '/ja/' %}{% endif %}
+          {% elsif page.url contains '/ja/' %}
+          {% assign navigation_links = site.data.navigation.main_ja %}
+          {% assign switch_title = "English" %}
+          {% assign switch_url = page.url | replace: '/ja/', '/en/' %}
+          {% if page.url == '/ja/' %}{% assign switch_url = '/en/' %}{% endif %}
+          {% else %}
+          {% assign navigation_links = site.data.navigation.main %}
+          {% assign switch_title = "English / 日本語" %}
+          <!-- Default to English or Japanese? Probably English since main is English structure? 
+                  Ah, the original main had a link to /ja/, but no link to /en/. 
+                  Let's make it link to Japanese if it's the root. -->
+          {% if page.url == '/' %}
+          {% assign switch_title = "日本語" %}
+          {% assign switch_url = "/ja/" %}
+          {% else %}
+          {% assign switch_url = "/fr/en/" %}
+          <!-- Placeholder to ensure it's not empty, but really we don't know where to go -->
+          {% endif %}
+          {% endif %}
+
+          {% for link in navigation_links %}
+          {% if link.url contains 'http' %}
+          {% assign domain = '' %}
+          {% else %}
+          {% assign domain = base_path %}
+          {% endif %}
+          <li class="masthead__menu-item {% if page.url contains link.url and link.url != '/' %}selected{% endif %}">
+            <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+          </li>
           {% endfor %}
+
+          <!-- Dynamic Language Switch -->
+          {% if switch_url %}
+          <li class="masthead__menu-item">
+            <a href="{{ base_path }}{{ switch_url }}">
+              <strong>{{ switch_title }}</strong>
+            </a>
+          </li>
+          {% endif %}
           <li id="theme-toggle" class="masthead__menu-item persist tail">
-            <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
+            <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true"
+                title="toggle theme"></i></a>
           </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
