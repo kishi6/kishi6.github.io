@@ -7,7 +7,14 @@
         <ul class="visible-links">
           <li
             class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
-            <a href="{{ base_path }}/">{{ site.title }}</a>
+            {% if page.url contains '/ja/' %}
+            <a href="{{ base_path }}/ja/">{{ site.title }}</a>
+            {% elsif page.url contains '/en/' %}
+            <a href="{{ base_path }}/en/">{{ site.title }}</a>
+            {% else %}
+            <!-- Fallback or default -->
+            <a href="{{ base_path }}/en/">{{ site.title }}</a>
+            {% endif %}
           </li>
           {% if page.url contains '/en/' %}
           {% assign navigation_links = site.data.navigation.main_en %}
