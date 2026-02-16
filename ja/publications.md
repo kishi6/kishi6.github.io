@@ -42,5 +42,5 @@ author_profile: true
 
 
 * Haruka Kiyohara, **Ren Kishimoto**, Kosuke Kawakami, Ken Kobayashi, Kazuhide Nakata, and Yuta Saito.
-    <br>[SCOPE-RL: A Python Library for Offline Reinforcement Learning and Off-Policy Evaluation](https://arxiv.org/abs/2311.18147).
+    <br>[SCOPE-RL: A Python Library for Offline Reinforcement Learning and Off-Policy Evaluation](https://arxiv.org/abs/2311.18206).
     <br>arXiv preprint, 2023.
