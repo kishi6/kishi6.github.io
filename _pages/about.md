@@ -1,5 +1,32 @@
 ---
 permalink: /
+title: "About Me"
+excerpt: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+Welcome to my personal website.
+
+I am a student at the **Institute of Science Tokyo** (Tokyo Tech), Japan. My research interests lie in **Machine Learning** and **Data Science**, with a particular focus on decision-making problems in interactive systems.
+
+Currently, I am working on research related to **Off-policy Learning**, **Contextual Bandits**, and **Recommender Systems**. I am also interested in the intersection of machine learning and economics, specifically in **Two-sided Matching** and **Market Design**.
+
+### Research Interests
+* **Off-policy Learning & Evaluation (OPE)**
+* **Contextual Bandits & Reinforcement Learning**
+* **Recommender Systems**
+* **Two-sided Matching**
+* **Mathematical Optimization**
+
+---
+
+For more details about my research and projects, please check the [Publications](/publications/) and [CV](/cv/) pages.
+
+<!-- ---
+permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
@@ -53,4 +80,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
