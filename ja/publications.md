@@ -11,7 +11,7 @@ author_profile: true
 
 * **Ren Kishimoto**\*, Rikiya Takehi\*, Koichi Tanaka, Riku Togashi, Masahiro Nomura, Yoji Tomita, Yuta Saito.
     <br>[Beyond Match Maximization and Fairness: Retention-Objectified Two-Sided Matching](https://openreview.net/forum?id=g2cZaKmRrc&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)).
-    <br>In Proceedings of the 12th International Conference on Learning Representations (**ICLR**), 2025.
+    <br>In Proceedings of the 14th International Conference on Learning Representations (**ICLR**), 2026.
 
 * Rikiya Takehi\*, Koichi Tanaka\*, **Ren Kishimoto**, Masahiro Nomura, Riku Togashi, Yuta Saito.
     <br>[Objective-driven Calibrated Recommendations](https://drive.google.com/file/d/1-kSRjOcvsKpC07G3gScR-W36wq9FIuMi/view).
@@ -19,7 +19,7 @@ author_profile: true
 
 * Koichi Tanaka\*, **Ren Kishimoto**\*, Bushun Kawagishi, Yusuke Narita, Nobuyuki Shimizu, Yasuo Yamamoto, Yuta Saito.
     <br>Off-Policy Learning with Limited Supply.
-    <br>In Proceedings of the ACM Web Conference (**TheWebConf**), 2025.
+    <br>In Proceedings of the ACM Web Conference (**TheWebConf**), 2026.
 
 * **Ren Kishimoto**, Tatsuhiro Shimizu, Kazuki Kawamura, Takanori Muroi, Yusuke Narita, Yuki Sasamoto, Kei Tateno, Takuma Udagawa, Yuta Saito.
     <br>[Offline Contextual Bandits in the Presence of New Actions](https://causal-machine-learning.github.io/kdd2025-workshop/papers/2.pdf).
