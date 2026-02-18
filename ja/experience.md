@@ -28,7 +28,7 @@ author_profile: true
 *   組み合わせ文脈バンディットにおけるOPE／OPL手法の研究
     *   [Effective Off-Policy Evaluation and Learning in Contextual Combinatorial Bandits](https://dl.acm.org/doi/10.1145/3640457.3688099) (**RecSys 2024**)
 *   ユーザー離脱を考慮したマッチング推薦
-    *   [Beyond Match Maximization and Fairness: Retention-Objectified Two-Sided Matching](https://openreview.net/forum?id=g2cZaKmRrc&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) (**ICLR 2026**)
+    *   [Beyond Match Maximization and Fairness: Retention-Optimized Two-Sided Matching](https://openreview.net/forum?id=g2cZaKmRrc&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) (**ICLR 2026**)
 *   目的志向型キャリブレーション推薦
     *   [Objective-driven Calibrated Recommendations](https://drive.google.com/file/d/1-kSRjOcvsKpC07G3gScR-W36wq9FIuMi/view) (**preprint**)
 

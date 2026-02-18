@@ -9,7 +9,7 @@ author_profile: true
 
 
 * **Ren Kishimoto**\*, Rikiya Takehi\*, Koichi Tanaka, Riku Togashi, Masahiro Nomura, Yoji Tomita, Yuta Saito.
-    <br>[Beyond Match Maximization and Fairness: Retention-Objectified Two-Sided Matching](https://openreview.net/forum?id=g2cZaKmRrc&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)).
+    <br>[Beyond Match Maximization and Fairness: Retention-Optimized Two-Sided Matching](https://openreview.net/forum?id=g2cZaKmRrc&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)).
     <br>In Proceedings of the 14th International Conference on Learning Representations (**ICLR**), 2026.
 
 * Rikiya Takehi\*, Koichi Tanaka\*, **Ren Kishimoto**, Masahiro Nomura, Riku Togashi, Yuta Saito.
