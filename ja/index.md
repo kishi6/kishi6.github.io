@@ -1,7 +1,7 @@
 ---
 permalink: /ja/
-title: "プロフィール"
-excerpt: "プロフィール"
+title: "岸本 廉"
+excerpt: "岸本　廉"
 author_profile: true
 redirect_from: 
   - /ja.html

@@ -1,7 +1,7 @@
 ---
 permalink: /en/
-title: "About Me"
-excerpt: "About Me"
+title: "Ren Kishimoto"
+excerpt: "Ren Kishimoto"
 author_profile: true
 redirect_from: 
   - /en.html
