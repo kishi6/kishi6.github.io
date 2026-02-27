@@ -32,10 +32,10 @@ main_en:
 #    url: /ja/  # Will be handled dynamically in masthead
 
 main_ja:
-  - title: "Publications"
+  - title: "論文"
     url: /ja/publications/
   
-  - title: "Experience"
+  - title: "職歴"
     url: /ja/experience/
 
 #  - title: "English"

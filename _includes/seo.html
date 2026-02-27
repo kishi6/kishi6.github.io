@@ -6,11 +6,18 @@
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
 
+{% if page.url contains '/ja/' %}
+{% assign localized_site_title = "岸本 廉" %}
+{% else %}
+{% assign localized_site_title = site.title %}
+{% endif %}
+
 {% if page.title %}
-{% if page.title == site.title %}
+{% if page.title == "岸本 廉" or page.title == site.title %}
 {% assign seo_title = page.title %}
 {% else %}
-{% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
+{% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append:
+localized_site_title %}
 {% endif %}
 {% endif %}
 
@@ -22,8 +29,9 @@
 {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
-<title>{{ seo_title | default: site.title }}{% if paginator %}{% unless paginator.page == 1 %} {{ site.title_separator
-  }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}</title>
+<title>{{ seo_title | default: localized_site_title }}{% if paginator %}{% unless paginator.page == 1 %} {{
+  site.title_separator }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless
+  %}{% endif %}</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
