@@ -7,7 +7,7 @@ redirect_from:
   - /en.html
 ---
 
-I am a first-year Master's student at **Institute of Science Tokyo** , majoring in Industrial Engineering and Economics. My research interests include **Off-policy Learning**, **Contextual Bandits**, **Recommender Systems**, and **Two-sided Matching**.
+I am a first-year Master's student at **Institute of Science Tokyo** (formerly Tokyo Tech), majoring in Industrial Engineering and Economics. My research interests include **Off-policy Learning**, **Contextual Bandits**, **Recommender Systems**, and **Two-sided Matching**.
 
 I have conducted research internships at **LINE Yahoo Research**, **CyberAgent AI Lab**, and **Hanjuku Kaso Co., Ltd.**. I also have practical experience as a Data Scientist intern at **CyberAgent**, **Recruit**, and **DeNA**, working on improving recommendation algorithms and data analysis.
 
