@@ -20,7 +20,7 @@ author_profile: true
 *   ランキング方策の効率的なオフライン学習手法の研究
     *   [Efficient Offline Learning of Ranking Policies via Top-k Policy Decomposition](https://openreview.net/pdf?id=Yllb5MyFSF) (**ARLET@ICML 2024**)
 *   在庫制約を考慮したオフ方策学習
-    *   Off-Policy Learning with Limited Supply (**TheWebConf 2026**)
+    *   [Off-Policy Learning with Limited Supply](https://arxiv.org/pdf/2603.18702) (**TheWebConf 2026**)
 
 ---
 

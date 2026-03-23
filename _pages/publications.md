@@ -13,7 +13,7 @@ author_profile: true
     <br>In Proceedings of the 12th International Conference on Learning Representations (**ICLR**), 2025.
 
 * Koichi Tanaka\*, **Ren Kishimoto**\*, Bushun Kawagishi, Yusuke Narita, Nobuyuki Shimizu, Yasuo Yamamoto, Yuta Saito.
-    <br>Off-Policy Learning with Limited Supply.
+    <br>[Off-Policy Learning with Limited Supply](https://arxiv.org/pdf/2603.18702).
     <br>In Proceedings of the ACM Web Conference (**TheWebConf**), 2025.
 
 * **Ren Kishimoto**, Tatsuhiro Shimizu, Kazuki Kawamura, Takanori Muroi, Yusuke Narita, Yuki Sasamoto, Kei Tateno, Takuma Udagawa, Yuta Saito.
