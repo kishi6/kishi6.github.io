@@ -107,6 +107,18 @@
   </script>
 {% endif %}
 
+{% if page.url == "/en/" or page.url == "/ja/" %}
+<script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : {{ site.title | jsonify }},
+      "alternateName" : ["岸本 廉", "kishi6.github.io"],
+      "url" : {{ site.url | append: "/" | jsonify }}
+    }
+  </script>
+{% endif %}
+
 {% if site.google_site_verification %}
 <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
 {% endif %}
