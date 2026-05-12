@@ -22,7 +22,7 @@ repository               : "kishi6/kishi6.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" # profile.pngという名前で画像をimagesフォルダに入れてください
+  avatar           : "profile_face.png" # profile_face.pngという名前で画像をimagesフォルダに入れてください
   name             : "Ren Kishimoto"
   pronouns         : # example: "she/her"  
   bio              : "Student at Institute of Science Tokyo<br>Data Science / Machine Learning"
