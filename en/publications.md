@@ -7,10 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+* Kosuke Iguchi, **Ren Kishimoto**.
+    <br>[Adaptive Doubly Robust Off-Policy Evaluation for Ranking Policies under Diverse User Behavior](https://arxiv.org/pdf/2608.29600).
+    <br>arXiv preprint, 2026.
+
 
 * **Ren Kishimoto**\*, Rikiya Takehi\*, Koichi Tanaka, Riku Togashi, Masahiro Nomura, Yoji Tomita, Yuta Saito.
     <br>[Beyond Match Maximization and Fairness: Retention-Optimized Two-Sided Matching](https://openreview.net/forum?id=g2cZaKmRrc).
     <br>In Proceedings of the 14th International Conference on Learning Representations (**ICLR**), 2026.
+
+* **Ren Kishimoto**, Rikiya Takehi, Koichi Tanaka, Masahiro Nomura, Yoji Tomita, Yuta Saito, Riku Togashi.
+    <br>[Two-Sided Matching for Maximizing User Retention](https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/1G3-OS-13a-06).
+    <br>The 40th Annual Conference of the Japanese Society for Artificial Intelligence (**JSAI**), 2026.
 
 * Rikiya Takehi\*, Koichi Tanaka\*, **Ren Kishimoto**, Masahiro Nomura, Riku Togashi, Yuta Saito.
     <br>[Objective-driven Calibrated Recommendations](https://drive.google.com/file/d/1-kSRjOcvsKpC07G3gScR-W36wq9FIuMi/view).
@@ -32,6 +40,10 @@ author_profile: true
 * **Ren Kishimoto**\*, Koichi Tanaka\*, Haruka Kiyohara, Yusuke Narita, Nobuyuki Shimizu, Yasuo Yamamoto, Yuta Saito.
     <br>[Efficient Offline Learning of Ranking Policies via Top-k Policy Decomposition](https://openreview.net/pdf?id=Yllb5MyFSF).
     <br>ICML 2024 Workshop on Aligning Reinforcement Learning Experimentalists and Theorists (**ARLET**), 2024.
+
+* **Ren Kishimoto**, Koichi Tanaka, Haruka Kiyohara, Yusuke Narita, Yasuo Yamamoto, Nobuyuki Shimizu, Yuta Saito.
+    <br>[Efficient Offline Learning of Ranking Policies via Top-k Policy Decomposition](https://openreview.net/pdf?id=Yllb5MyFSF).
+    <br>ACM Conference on Knowledge and Information Management (**CIKM**), 2026. (acceptance rate=27%)
 
 * Haruka Kiyohara, **Ren Kishimoto**, Kosuke Kawakami, Ken Kobayashi, Kazuhide Nakata, Yuta Saito.
     <br>[Towards Assessing and Benchmarking Risk-Return Tradeoff of Off-Policy Evaluation](https://openreview.net/pdf?id=ycF7mKfVGO).

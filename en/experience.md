@@ -24,6 +24,7 @@ author_profile: true
 **CyberAgent AI Lab** / Research Intern (Jan 2024 - Jan 2026)
 *   [Effective Off-Policy Evaluation and Learning in Contextual Combinatorial Bandits](https://dl.acm.org/doi/10.1145/3640457.3688099) (**RecSys 2024**)
 *   [Beyond Match Maximization and Fairness: Retention-Optimized Two-Sided Matching](https://openreview.net/forum?id=g2cZaKmRrc) (**ICLR 2026**)
+*   [Two-Sided Matching for Maximizing User Retention](https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/1G3-OS-13a-06) (**JSAI 2026**)
 *   [Objective-driven Calibrated Recommendations](https://drive.google.com/file/d/1-kSRjOcvsKpC07G3gScR-W36wq9FIuMi/view) (**preprint**)
 
 ---

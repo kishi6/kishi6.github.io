@@ -29,6 +29,7 @@ author_profile: true
     *   [Effective Off-Policy Evaluation and Learning in Contextual Combinatorial Bandits](https://dl.acm.org/doi/10.1145/3640457.3688099) (**RecSys 2024**)
 *   ユーザー離脱を考慮したマッチング推薦
     *   [Beyond Match Maximization and Fairness: Retention-Optimized Two-Sided Matching](https://openreview.net/forum?id=g2cZaKmRrc) (**ICLR 2026**)
+    *   [ユーザ継続の最大化を目的とした双方向マッチング](https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/1G3-OS-13a-06) (**人工知能学会全国大会 2026**)
 *   目的志向型キャリブレーション推薦
     *   [Objective-driven Calibrated Recommendations](https://drive.google.com/file/d/1-kSRjOcvsKpC07G3gScR-W36wq9FIuMi/view) (**preprint**)
 
