@@ -7,51 +7,60 @@ author_profile: true
 
 {% include base_path %}
 
-* Kosuke Iguchi, **Ren Kishimoto**.
-    <br>[Adaptive Doubly Robust Off-Policy Evaluation for Ranking Policies under Diverse User Behavior](https://arxiv.org/pdf/2608.29600).
-    <br>arXiv preprint, 2026.
+## International Conference Proceedings
 
-
+* **Ren Kishimoto**, Tatsuhiro Shimizu, Kazuki Kawamura, Takanori Muroi, Yusuke Narita, Yuki Sasamoto, Kei Tateno, Takuma Udagawa, Yuta Saito.
+    <br>[Offline Contextual Bandits in the Presence of New Actions](https://openreview.net/pdf?id=3YTlnocq4P).
+    <br>Transactions on Machine Learning Research (**TMLR**), 2026.
 
 * **Ren Kishimoto**\*, Rikiya Takehi\*, Koichi Tanaka, Riku Togashi, Masahiro Nomura, Yoji Tomita, Yuta Saito.
     <br>[Beyond Match Maximization and Fairness: Retention-Optimized Two-Sided Matching](https://openreview.net/forum?id=g2cZaKmRrc).
     <br>In Proceedings of the 14th International Conference on Learning Representations (**ICLR**), 2026.
 
-* **岸本 廉**, 武樋 力哉, 田中 滉一, 野村 将寛, 冨田 燿志, 齋藤 優太, 冨樫 陸.
-    <br>[ユーザ継続の最大化を目的とした双方向マッチング](https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/1G3-OS-13a-06).
-    <br>2026年度 人工知能学会全国大会（第40回）, 2026.
-
-* Rikiya Takehi\*, Koichi Tanaka\*, **Ren Kishimoto**, Masahiro Nomura, Riku Togashi, Yuta Saito.
-    <br>[Objective-driven Calibrated Recommendations](https://drive.google.com/file/d/1-kSRjOcvsKpC07G3gScR-W36wq9FIuMi/view).
-    <br>preprint, 2025.
-
 * Koichi Tanaka\*, **Ren Kishimoto**\*, Bushun Kawagishi, Yusuke Narita, Nobuyuki Shimizu, Yasuo Yamamoto, Yuta Saito.
     <br>[Off-Policy Learning with Limited Supply](https://arxiv.org/pdf/2603.18702).
     <br>In Proceedings of the ACM Web Conference (**TheWebConf**), 2026.
 
-* **Ren Kishimoto**, Tatsuhiro Shimizu, Kazuki Kawamura, Takanori Muroi, Yusuke Narita, Yuki Sasamoto, Kei Tateno, Takuma Udagawa, Yuta Saito.
-    <br>[Offline Contextual Bandits in the Presence of New Actions](https://causal-machine-learning.github.io/kdd2025-workshop/papers/2.pdf).
-    <br>KDD 2025 Workshop - Causal Inference and Machine Learning in Practice.
-
-
+* **Ren Kishimoto**, Koichi Tanaka, Haruka Kiyohara, Yusuke Narita, Yasuo Yamamoto, Nobuyuki Shimizu, Yuta Saito.
+    <br>[Efficient Offline Learning of Ranking Policies via Top-k Policy Decomposition](https://openreview.net/pdf?id=Yllb5MyFSF).
+    <br>ACM Conference on Knowledge and Information Management (**CIKM**), 2026.
 
 * Tatsuhiro Shimizu\*, Koichi Tanaka\*, **Ren Kishimoto**, Haruka Kiyohara, Masahiro Nomura, Yuta Saito.
     <br>[Effective Off-Policy Evaluation and Learning in Contextual Combinatorial Bandits](https://dl.acm.org/doi/10.1145/3640457.3688099).
     <br>In Proceedings of the 18th ACM Recommender Systems Conference (**RecSys**), 2024.
-
-* **Ren Kishimoto**\*, Koichi Tanaka\*, Haruka Kiyohara, Yusuke Narita, Nobuyuki Shimizu, Yasuo Yamamoto, Yuta Saito.
-    <br>[Efficient Offline Learning of Ranking Policies via Top-k Policy Decomposition](https://openreview.net/pdf?id=Yllb5MyFSF).
-    <br>ICML 2024 Workshop on Aligning Reinforcement Learning Experimentalists and Theorists (**ARLET**), 2024.
-
-* **Ren Kishimoto**, Koichi Tanaka, Haruka Kiyohara, Yusuke Narita, Yasuo Yamamoto, Nobuyuki Shimizu, Yuta Saito.
-    <br>[Efficient Offline Learning of Ranking Policies via Top-k Policy Decomposition](https://openreview.net/pdf?id=Yllb5MyFSF).
-    <br>ACM Conference on Knowledge and Information Management (**CIKM**), 2026. (acceptance rate=27%)
 
 * Haruka Kiyohara, **Ren Kishimoto**, Kosuke Kawakami, Ken Kobayashi, Kazuhide Nakata, Yuta Saito.
     <br>[Towards Assessing and Benchmarking Risk-Return Tradeoff of Off-Policy Evaluation](https://openreview.net/pdf?id=ycF7mKfVGO).
     <br>In Proceedings of the 12th International Conference on Learning Representations (**ICLR**), 2024.
 
 
+## Domestic Conference
+
+* **岸本 廉**, 武樋 力哉, 田中 滉一, 野村 将寛, 冨田 燿志, 齋藤 優太, 冨樫 陸.
+    <br>[ユーザ継続の最大化を目的とした双方向マッチング](https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/1G3-OS-13a-06).
+    <br>2026年度 人工知能学会全国大会（第40回）, 2026.
+
+
+## Workshop
+
+* Kosuke Iguchi, **Ren Kishimoto**.
+    <br>[Adaptive Doubly Robust Off-Policy Evaluation for Ranking Policies under Diverse User Behavior](https://arxiv.org/pdf/2608.29600).
+    <br>RecSys Workshop on Causality, Counterfactuals & Sequential Decision-Making (**CONSEQUENCES**), 2026.
+
+* **Ren Kishimoto**, Tatsuhiro Shimizu, Kazuki Kawamura, Takanori Muroi, Yusuke Narita, Yuki Sasamoto, Kei Tateno, Takuma Udagawa, Yuta Saito.
+    <br>[Offline Contextual Bandits in the Presence of New Actions](https://causal-machine-learning.github.io/kdd2025-workshop/papers/2.pdf).
+    <br>KDD 2025 Workshop - Causal Inference and Machine Learning in Practice.
+
+* **Ren Kishimoto**\*, Koichi Tanaka\*, Haruka Kiyohara, Yusuke Narita, Nobuyuki Shimizu, Yasuo Yamamoto, Yuta Saito.
+    <br>[Efficient Offline Learning of Ranking Policies via Top-k Policy Decomposition](https://openreview.net/pdf?id=Yllb5MyFSF).
+    <br>ICML 2024 Workshop on Aligning Reinforcement Learning Experimentalists and Theorists (**ARLET**), 2024.
+
+
+## Preprint
+
+* Rikiya Takehi\*, Koichi Tanaka\*, **Ren Kishimoto**, Masahiro Nomura, Riku Togashi, Yuta Saito.
+    <br>[Objective-driven Calibrated Recommendations](https://drive.google.com/file/d/1-kSRjOcvsKpC07G3gScR-W36wq9FIuMi/view).
+    <br>preprint, 2025.
 
 * Haruka Kiyohara, **Ren Kishimoto**, Kosuke Kawakami, Ken Kobayashi, Kazuhide Nakata, and Yuta Saito.
     <br>[SCOPE-RL: A Python Library for Offline Reinforcement Learning and Off-Policy Evaluation](https://arxiv.org/abs/2311.18206).
