@@ -11,7 +11,7 @@ author_profile: true
 
 * **Ren Kishimoto**, Tatsuhiro Shimizu, Kazuki Kawamura, Takanori Muroi, Yusuke Narita, Yuki Sasamoto, Kei Tateno, Takuma Udagawa, Yuta Saito.
     <br>[Offline Contextual Bandits in the Presence of New Actions](https://openreview.net/pdf?id=3YTlnocq4P).
-    <br>Transactions on Machine Learning Research (**TMLR**), 2026.
+    <br>Transactions on Machine Learning Research (**TMLR**), 2026. Accepted via Journal-to-Conference (**J2C**).
 
 * **Ren Kishimoto**\*, Rikiya Takehi\*, Koichi Tanaka, Riku Togashi, Masahiro Nomura, Yoji Tomita, Yuta Saito.
     <br>[Beyond Match Maximization and Fairness: Retention-Optimized Two-Sided Matching](https://openreview.net/forum?id=g2cZaKmRrc).
@@ -22,7 +22,7 @@ author_profile: true
     <br>In Proceedings of the ACM Web Conference (**TheWebConf**), 2026.
 
 * **Ren Kishimoto**, Koichi Tanaka, Haruka Kiyohara, Yusuke Narita, Yasuo Yamamoto, Nobuyuki Shimizu, Yuta Saito.
-    <br>[Efficient Offline Learning of Ranking Policies via Top-k Policy Decomposition](https://openreview.net/pdf?id=Yllb5MyFSF).
+    <br>[Efficient Offline Learning of Ranking Policies via Top-k Policy Decomposition](https://dl.acm.org/doi/10.1145/3799682.3840629).
     <br>ACM Conference on Knowledge and Information Management (**CIKM**), 2026.
 
 * Tatsuhiro Shimizu\*, Koichi Tanaka\*, **Ren Kishimoto**, Haruka Kiyohara, Masahiro Nomura, Yuta Saito.
@@ -39,6 +39,7 @@ author_profile: true
 * **岸本 廉**, 武樋 力哉, 田中 滉一, 野村 将寛, 冨田 燿志, 齋藤 優太, 冨樫 陸.
     <br>[ユーザ継続の最大化を目的とした双方向マッチング](https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/1G3-OS-13a-06).
     <br>2026年度 人工知能学会全国大会（第40回）, 2026.
+    <br>[人工知能学会全国大会優秀賞](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/#CONFERENCE).
 
 
 ## Workshop
