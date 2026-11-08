@@ -18,6 +18,7 @@ author_profile: true
 
 **Yahoo! JAPAN研究所** (LINEヤフー)／研究インターン（2023年5月〜現在）
 *   ランキング方策の効率的なオフライン学習手法の研究
+    *   [Efficient Offline Learning of Ranking Policies via Top-k Policy Decomposition](https://dl.acm.org/doi/10.1145/3799682.3840629) (**CIKM 2026**)
     *   [Efficient Offline Learning of Ranking Policies via Top-k Policy Decomposition](https://openreview.net/pdf?id=Yllb5MyFSF) (**ARLET@ICML 2024**)
 *   在庫制約を考慮したオフ方策学習
     *   [Off-Policy Learning with Limited Supply](https://arxiv.org/pdf/2603.18702) (**TheWebConf 2026**)
@@ -37,6 +38,7 @@ author_profile: true
 
 **半熟仮想株式会社**／研究インターン（2024年3月〜現在）
 *   新行動に対応するためのOPLの研究
+    *   [Offline Contextual Bandits in the Presence of New Actions](https://openreview.net/pdf?id=3YTlnocq4P) (**TMLR 2026, J2C**)
     *   [Offline Contextual Bandits with New Actions](https://causal-machine-learning.github.io/kdd2025-workshop/papers/2.pdf) (**KDD 2025 Workshop on Causal Inference**)
 
 ---

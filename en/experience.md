@@ -16,6 +16,7 @@ author_profile: true
 ---
 
 **Yahoo! JAPAN Research** (LINE Yahoo) / Research Intern (May 2023 - Present)
+*   [Efficient Offline Learning of Ranking Policies via Top-k Policy Decomposition](https://dl.acm.org/doi/10.1145/3799682.3840629) (**CIKM 2026**)
 *   [Efficient Offline Learning of Ranking Policies via Top-k Policy Decomposition](https://openreview.net/pdf?id=Yllb5MyFSF) (**ARLET@ICML 2024**)
 *   [Off-Policy Learning with Limited Supply](https://arxiv.org/pdf/2603.18702) (**TheWebConf 2026**)
 
@@ -30,6 +31,7 @@ author_profile: true
 ---
 
 **Hanjuku Kaso Co., Ltd.** (Half-Baked Virtual) / Research Intern (Mar 2024 - Present)
+*   [Offline Contextual Bandits in the Presence of New Actions](https://openreview.net/pdf?id=3YTlnocq4P) (**TMLR 2026, J2C**)
 *   [Offline Contextual Bandits with New Actions](https://causal-machine-learning.github.io/kdd2025-workshop/papers/2.pdf) (**KDD 2025 Workshop on Causal Inference**)
 
 ---
